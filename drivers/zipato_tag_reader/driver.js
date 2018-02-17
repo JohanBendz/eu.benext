@@ -4,7 +4,7 @@ const path = require('path');
 const ZwaveDriver = require('homey-zwavedriver');
 
 // http://products.z-wavealliance.org/products/1979
-// http://www.benext.eu/static/manual/tagreader500.pdf
+// https://www.zipato.com/product/mini-keypad-rfid (White labeled BeNext Tag Reader 500)
 
 // Plan: When user gives an unknown tag. Search for the tag code in the settings of the benext app
 // When user is found, send the user ID back to the device

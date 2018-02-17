@@ -13,3 +13,4 @@ This app adds support for BeNext devices in Homey.
 * Window/door sensor
 * Heating control
 * Energy switch plus
+* Zipato Tag Reader (White labeled BeNext Tag Reader 500)

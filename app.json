@@ -370,7 +370,7 @@
         "productTypeId": 7,
         "productId": 257,
         "learnmode": {
-          "image": "/drivers/tag_reader_500/assets/learnmode.svg",
+          "image": "/drivers/zipato_tag_reader/assets/learnmode.svg",
           "instruction": {
             "en": "Press and hold the enter button for two seconds (indication LED blinks shortly) and release to start the add/remove routine.",
             "nl": "Druk en houd de enter knop ingedrukt voor twee seconden (LED indicatie knippert kort) om de toevoegen/verwijder modus te starten."
@@ -396,8 +396,8 @@
         "my_gateway_control"
       ],
       "images": {
-        "large": "/drivers/tag_reader_500/assets/images/large.png",
-        "small": "/drivers/tag_reader_500/assets/images/small.png"
+        "large": "/drivers/zipato_tag_reader/assets/images/large.png",
+        "small": "/drivers/zipato_tag_reader/assets/images/small.png"
       },
       "settings": [
         {

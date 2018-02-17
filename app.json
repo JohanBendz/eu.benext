@@ -359,7 +359,6 @@
         }
       ]
     },
-// Adding support for Zipato Tag Reader
 {
       "id": "Zipato_Tag_Reader",
       "name": {
@@ -566,8 +565,6 @@
         }
       ]
     },
-
-// Finished adding support for Zipato Tag Reader
 {
       "id": "tag_reader_500",
       "name": {
